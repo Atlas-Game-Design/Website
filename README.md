@@ -1,1 +1,1 @@
-# Atlas Studios Website
+# Atlas Game Design Website
